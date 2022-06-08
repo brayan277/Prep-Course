@@ -1,0 +1,22 @@
+.divClass h1 {
+  color: brown;
+}
+
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+}
+#thirdDiv {
+  background-color: blanchedalmond;
+}
+#thirdDiv {
+  padding: 50px;
+  border: 5px solid brown;
+}
+img {
+  width: 400px;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
